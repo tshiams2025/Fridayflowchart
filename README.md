@@ -1,4 +1,4 @@
-...# Fridayflowchart
+```mermaid # Fridayflowchart
 
 graph TD
     %% Styling Definitions
@@ -46,4 +46,4 @@ graph TD
     H2 --> Job1
     Job1 --> Job2
     Job2 --> Job3
-    Job3 --> Job4
+    Job3 --> Job4 ```
