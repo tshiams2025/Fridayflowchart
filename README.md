@@ -1,4 +1,3 @@
-```mermaid
 graph TD
     %% Styling Definitions
     classDef header fill:#A3E635,stroke:#333,stroke-width:2px,font-weight:bold;
@@ -46,4 +45,9 @@ graph TD
     Job1 --> Job2
     Job2 --> Job3
     Job3 --> Job4
-```
+
+    %% Link Definitions
+    click Job1 "http://google.com"
+    click Job2 "http://youtube.com"
+    click Job3 "http://github.com"
+    click Job4 "http://wikipedia.org"
