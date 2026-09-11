@@ -39,6 +39,6 @@ graph TD
 
     click Job1 "http://google.com"
     click Job2 "http://youtube.com"
-    click Job3 "http://github.com"
+    click Job3 "https://hiringamarketingcompany4beginer.blogspot.com/"
     click Job4 "http://wikipedia.org"
 ```
